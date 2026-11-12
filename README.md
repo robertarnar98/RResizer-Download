@@ -10,7 +10,7 @@ Resize and convert photos and videos on your Mac: JPEG, HEIC, PNG, TIFF, WebP, G
 
 1. Double-click **RResizer.dmg**.
 2. Drag **RResizer** onto the **Applications** folder.
-3. Open it from Applications. The first time, macOS says it can't verify the app: click **Done**, then go to **System Settings → Privacy & Security**, scroll down and click **Open Anyway**.
+3. Open it from Applications. That's it: RResizer is signed and approved by Apple, so it opens with no security warning.
 
 ## Updates
 
