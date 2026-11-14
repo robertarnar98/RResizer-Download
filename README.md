@@ -2,6 +2,10 @@
 
 Resize and convert photos and videos on your Mac: JPEG, HEIC, PNG, TIFF, WebP, GIF and DNG, a size limit in MB, crop, black & white looks, film borders and grain, PDF pages to images, and video in H.264, HEVC or ProRes with LUTs. Your originals are never changed.
 
+## Watch the 1-minute tour
+
+https://github.com/user-attachments/assets/8d9d9711-b7ae-446f-91fa-1bda1a072e56
+
 ## Download
 
 **[⬇︎ Download the newest version](https://github.com/robertarnar98/RResizer-Download/releases/latest)**: click **RResizer.dmg** under *Assets*.
